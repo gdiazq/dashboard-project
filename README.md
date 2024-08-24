@@ -1,1 +1,1 @@
-# Dashboard with Catalyst of TailwindUI
+# Dashboard Proyect with NextJS, TailwindCSS
