@@ -7,7 +7,7 @@ import { ReactNode, useEffect, useState } from "react";
 import { BsSunFill } from "react-icons/bs";
 import { BsMoonFill } from "react-icons/bs";
 
-export function ThemeSwitcher() {
+export function ThemeSwitch() {
   const [mounted, setMounted] = useState(false)
   const { theme, setTheme } = useTheme()
 
